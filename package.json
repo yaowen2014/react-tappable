@@ -1,5 +1,5 @@
 {
-  "name": "react-tappable",
+  "name": "react-tappable-lls",
   "version": "0.8.4",
   "description": "Touch / Tappable Event Handling Component for React",
   "main": "lib/TapAndPinchable.js",
